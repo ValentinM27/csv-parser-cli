@@ -1,5 +1,4 @@
-import csv, json, sys
-import os.path
+import csv, json, sys, os.path
 from os import path
 
 def main():
